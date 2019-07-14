@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 流体力学
-date: /today
+date: 2019-07-14
 tag: 工程热物理
 ---
 
