@@ -41,7 +41,7 @@ baidu:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+# 
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
@@ -58,7 +58,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 网站主页
 
 # Navigation buttons in the front page.s
 nav:
