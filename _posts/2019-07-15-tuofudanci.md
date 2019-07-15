@@ -5,7 +5,7 @@ date: 2019-07-15
 tags: 外语   
 ---
 词汇顺序参考《李笑来新托福词汇分类突破》
-
+![](/images/post/English/aaa.png)
 ### **建筑**
 
 
@@ -89,6 +89,8 @@ tags: 外语
 * infrastructure 基础设施
 * privately owned 私有的
 * monopoly 垄断
+
+![](/images/post/English/aab.png)
 
 **交通**
 
