@@ -90,7 +90,7 @@ tags: 外语
 * privately owned 私有的
 * monopoly 垄断
 
-![](/images/post/English/aab .png)
+![](/images/post/English/aab.png)
 
 **交通**
 
