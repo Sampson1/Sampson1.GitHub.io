@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 ---
 layout: post
 title: "流体力学"
@@ -5,6 +16,9 @@ date: 2019-07-14
 tags: 热物理   
 ---
 ### 流体力学
+
+$ e = m c^2 $
+
 流体力学（英语：Fluid mechanics）是力学的一门分支，是研究流体（包含气体、液体及等离子体）现象以及相关力学行为的科学。流体力学可以按照研究对象的运动方式分为流体静力学和流体动力学，前者研究处于静止状态的流体，后者研究力对于流体运动的影响。流体力学按照应用范围，分为空气力学及水力学等。
 
 流体力学是连续介质力学的一门分支，是以宏观的角度来考虑系统特性，而不是微观的考虑系统中每一个粒子的特性。流体力学（尤甚是流体动力学）是一个活跃的研究领域，其中有许多尚未解决或部分解决的问题。流体动力学所应用的数学系统非常复杂，最佳的处理方式是利用电脑进行数值分析，如计算流体力学通过数值分析的方式求解流体力学问题。粒子图像测速技术是一个将流体流场视觉化并进行分析的实验方式，也利用了流体高度可见化的特点。
