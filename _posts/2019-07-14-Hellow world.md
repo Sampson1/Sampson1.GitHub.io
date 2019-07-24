@@ -1,3 +1,9 @@
+---
+layout: post
+title: "流体力学"
+date: 2019-07-14
+tags: 热物理   
+---
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -9,12 +15,7 @@
         });
     </script>
 </head>
----
-layout: post
-title: "流体力学"
-date: 2019-07-14
-tags: 热物理   
----
+
 ### 流体力学
 
 $ e = m c^2 $
